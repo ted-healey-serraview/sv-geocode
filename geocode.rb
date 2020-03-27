@@ -11,7 +11,7 @@ else
   geocache = Hash.new
 end
 
-rows.each do |row|
+rows.drop(1).each do |row|
   place = [row[3], row[1]].join(',')
   puts place
 
