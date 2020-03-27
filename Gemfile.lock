@@ -1,0 +1,14 @@
+GEM
+  specs:
+    byebug (11.0.1)
+    geocoder (1.5.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  geocoder
+
+BUNDLED WITH
+   2.1.4

@@ -1,0 +1,186 @@
+,,,,,,,,,,
+,Country,State,City,Street,Postcode,Longitude,Latitude,Floors,Workpoints,Headcount
+,Australia,-,Melbourne,345 Bourke Street,3000,0,0,2,142,183
+,Australia,-,Melbourne,55 Collins St Level 31,VIC 3000,0,0,1,86,191
+,Argentina,-,Buenos Aires,"Juana Manso 999, 6th Floor",C1107CDA,0,0,5,414,426
+,Argentina,-,Pilar,"Avenida Beliera 3025, 2nd Floor",1.619,0,0,1,76,79
+,Australia,-,Brisbane,"Waterfront Place, 1 Eagle Street, Brisbane Qld",4000,0,0,1,61,29
+,Australia,-,Canberra,"10 Bourke Street, Unit 4, Barton Act 2600",2604,0,0,1,11,20
+,Australia,-,Melbourne,345 Bourke Street,3000,0,0,2,142,183
+,Australia,-,Melbourne,55 Collins St Level 31,VIC 3000,0,0,1,86,191
+,Australia,-,Melbourne,"Level 12, 277 William Street",3000,0,0,1,47,24
+,Australia,-,Melbourne,"Rialto, West Podium, 525 Collins Street, Melbourne Victoria",3000,0,0,1,6,0
+,Australia,-,Sydney,"141 Walker Street, Level 8",NSW 2060,0,0,1,81,107
+,Australia,-,Sydney,Darling Park - Tower 3 201 Sussex St,NSW 2000,0,0,5,730,1056
+,Australia,New South Wales,Sydney,"155 Clarence Street. Levels 7, 8 & 9",2000,0,0,3,184,0
+,Australia,New South Wales,Sydney,180 George Street,,,,24,0,0
+,Belgium,Region Brussels,Brussels,Rond Point Schuman 6 Box 5,1040,0,0,3,3,3
+,Belgium,Region Brussels,Brussels,"Wework Blemont Court 51-53, Rue Belliard",1000,,,1,0,0
+,Belgium,West Vlaanderen,Zaventem,Da Vincilaan 9,1930,0,0,3,51,74
+,Brazil,-,Sao Paulo,"Avenida Jornalista Roberto Marinho, 85 Suites 141-142",04576-010,0,0,2,226,352
+,Brazil,-,Sao Paulo,"World Trade Center, Avenida das Nacoes Unidas 12.551 Suite 2301",04578-903,0,0,1,11,10
+,Canada,British Columbia,Vancouver,333 Seymour Street,V6B 5A7,0,0,5,346,199
+,Canada,British Columbia,Vancouver,545 Robson St.,V6B 1A6,0,0,1,139,0
+,Canada,New Brunswick,Fredericton,50 Crowther Lane Building Five,E3C 0J1,0,0,2,229,113
+,Canada,New Brunswick,Saint John,"1 Germain Square, Suite 1800 Brunswick Square Office Tower",E2L 4W3,0,0,2,96,56
+,Canada,Nova Scotia,Halifax,1505 Barrington Street 3rd Floor North,B3J 2W3,0,0,2,97,64
+,Canada,Ontario,Toronto,10 Bay Street,M5J 2R8,0,0,5,787,870
+,Canada,Quebec,Montreal,3 Place Ville Marie Suite 400,H3B 2E3,0,0,1,38,24
+,China,,Beijing,"16 Chao Wa Street, Chaoyang District",100022,0,0,1,20,0
+,China,,Shanghai,268 Xizang Zhong Road,200001,0,0,1,18,0
+,China,-,Beijing,"11/f North Tower 1 Guanghua, Chaoyang District",100020,0,0,2,0,0
+,China,-,Beijing,"Ifc Center East Tower, No. 8 Jianguomenwai Ave",100022,0,0,1,2,0
+,China,-,Shanghai,"Level 8, 8 Century Avenue Pudong",200120,0,0,2,0,0
+,Denmark,-,Hellerup,Strandvejen 125,2900,0,0,3,55,77
+,Finland,-,Espoo,Keilaranta 1,2150,0,0,4,58,95
+,France,,Paris,"255 Boulevard Pereire, Floor 1",75017,0,0,1,116,52
+,France,-,Grenoble,"29, Blvd des Alpes",38240,0,0,3,50,40
+,France,-,Lyon,4 Place Amedee Bonnet Cs 20265,69289,0,0,2,10,29
+,France,-,Nantes,30 Boulevard Vincent Gache,44200,0,0,1,16,10
+,France,-,Paris,198 Avenue de France,75013,0,0,1,78,80
+,France,-,Paris,3 Av Octave Greard,75007,0,0,16,415,855
+,Germany,,Frankfurt,30 Ulmenstrasse,60325,0,0,3,268,66
+,Germany,,Munich,Maximilianstr 35,,0,0,1,27,0
+,Germany,-,Berlin,Kurfurstendamm 194 Floor 1 And Basement,10707,0,0,3,100,176
+,Germany,-,Dusseldorf,Elisabethstrasse 11,40217,0,0,2,37,74
+,Germany,-,Frankfurt,"Lyoner Str. 44 - 48, Floor 12 Arabella Bürocenter",60528,,,1,0,0
+,Germany,-,Frankfurt,Wiesenhuttenplatz 25,60329,0,0,1,40,81
+,Germany,-,Hamburg,Hermannstrasse 12,20095,0,0,2,7,11
+,Germany,-,Jena,Leutragraben 2-4,7743,0,0,8,141,117
+,Germany,-,Munich,Erika-Mann-Strasse 31-37,80636,0,0,10,343,477
+,Hong Kong,,Hong Kong,33 Wyndham Street,,,,1,0,0
+,Hong Kong,,Hong Kong,39 Queen's Road Central,,,,1,0,0
+,Hong Kong,-,Hong Kong,"Lee Gardens 3, 1 Sunning Road Causway Bay",852,0,0,1,12,0
+,Hong Kong,-,Hong Kong,"Nexxus Building, Level 15 41 Connaught Road, Central",75M4+PJ,0,0,1,62,60
+,India,-,Bangalore,"Challaghatta Village, Varthur Hobli Bangalore South Taluk (East)",560 071,0,0,1,386,195
+,India,-,Gurgaon,Dlf Phase 2,122002,0,0,1,160,2
+,India,-,Gurgaon,"Level 18, Golf Course Road",122002,0,0,1,31,52
+,India,-,Hyderabad,Divyasree Orion Block 3 15-17th Floor,500032,0,0,8,0,0
+,India,-,Hyderabad,Divyasree Orion Block 4 15th Floor,500032,0,0,1,403,404
+,India,-,Hyderabad,Divyasree Orion Block 5,500032,0,0,3,1138,1520
+,India,-,Hyderabad,"Hi-tech City White Fields, Kondapur",500084,0,0,2,413,232
+,India,-,Mumbai,"701, Plot No. C-70, Bg Block Bandra Kurla Complex, the Capital (Mumbai) Bandra (East)",400051,0,0,3,63,70
+,Ireland,-,Dublin,"Number 1 Central Park (Block G) Central Park, Leopardstown",18,0,0,4,827,1241
+,Ireland,-,Dublin,"the Atrium Block A, Sandyford Business Park",18,0,0,2,493,651
+,Ireland,-,Dublin,the Oval Shelbourne Road Ballsbridge,D04 E7K5,0,0,2,135,120
+,Israel,-,Nazareth,"Paulus Ha-shishi 102 Street, 3rd Fl",1600000,0,0,2,30,26
+,Israel,-,Petah Tikva,94 Em-hamoshavot Road,49527,0,0,3,297,243
+,Israel,-,Tel Aviv,"114 Yigal Alon, 12th Floor",6744320,0,0,2,252,216
+,Israel,-,Tel Aviv,"94 Yigal Alon Street Alon Towers, Building 1",61000,0,0,3,256,222
+,Italy,-,Milan,"Corso Europa 15, Milan 20122",20122,0,0,1,100,175
+,Italy,-,Rome,"Via Properzio, 5 4th Floor",193,0,0,2,32,58
+,Japan,,Tokyo,"1-10 Ginza 6 chome, Chou-ku, 11th Flr",104-0061,0,0,1,188,0
+,Japan,-,Fukuoka,"3f Jr JP Hakata Building 8-1 Hakataekichuogai, Hakata-ku",812-0012,0,0,2,12,21
+,Japan,-,Hiroshima,"Hirotake 5f8f 9-7 Hashimotocho, Nata-ku Hiroshima-shi, Hiroshima-",730-0015,0,0,2,4,2
+,Japan,-,Nagoya,"Level 40, Nagoya Lucent Tower, 6-1 Ushijima-cho, Nishiku",451-6040,0,0,1,24,28
+,Japan,-,Osaka,"Osaka-shi, Osaka-fu 530-0011",530-0011,0,0,1,73,103
+,Japan,-,Tokyo,"1-1-3, Marunouchi, Chiyoda-ku",100-0005,0,0,19,0,0
+,Japan,-,Tokyo,"2-7-2 Marunouchi, Chiyoda-ku",100-0005,0,0,4,970,1711
+,Japan,-,Tokyo,Tokyo Midtown Tower 18f Akasaka 9-7-1 Minato-ku,107-0052,0,0,1,200,189
+,Japan,-,Wakayama,"2998-119 Shirahama-cho Nishimurogun, Wakayama",649-2211,0,0,2,20,4
+,"Korea, Republic of",,Seoul,511 Young Dong St Gangnam-gu,,0,0,1,23,0
+,"Korea, Republic of",-,Seoul,"Seoul, 13-039, Wework Seoul Station, 416 Hangang-daero Jung-gu",4637,0,0,1,37,47
+,Mexico,Mexico,Mexico City,"Montes Urales 424, Lomas de Chapultepec V Seccion Ciudad de Mexico, Di",11000,0,0,1,145,145
+,Morocco,-,Casablanca,"Boulevard des Almohades Floor 4, Office No. 6, Block A5",20250,0,0,2,62,60
+,Netherlands,-,Amsterdam,Amstelveenseweg 500,1081 KL,0,0,3,81,144
+,Netherlands,-,Amsterdam,Mahlerlaan 2970,1081 LA,0,0,2,119,202
+,Netherlands,-,Amsterdam,"the Base B, Evert Van de Beekstraat 104",1118CN,0,0,1,6,0
+,New Zealand,-,Auckland,188 Quay Street Level 27,1010,0,0,2,40,51
+,Norway,-,Oslo,Tollbugata 8,152,0,0,2,16,26
+,Remote,Remote,Remote,Remote,,0,0,1,0,2120
+,Singapore,,Singapore,"38 Beach Road, #05-12 South Beach Tower",189767,0,0,2,256,0
+,Singapore,-,Singapore,5 Temasek Boulevard #10-03 & 13-01,38985,0,0,2,459,669
+,Singapore,-,Singapore,9 Temasek Blvd,38989,0,0,2,100,113
+,Spain,-,Barcelona,"Can Rabia 3-5, 4th Fl",8017,0,0,3,25,42
+,Spain,-,Madrid,Paseo de la Castellana 79 6th & 7th Floor,28046,0,0,6,140,278
+,Sweden,,Stockholm,Östermalmstorg 1,,0,0,1,8,0
+,Sweden,-,Stockholm,Klarabergsviadukten 63,SE 111 64,0,0,5,80,120
+,Switzerland,-,Morges,Lake Geneva Center Building A Rte de Longeraire,9-1110,0,0,1,131,180
+,Switzerland,-,Zurich,Ernst-nobs-platz 1,8004,0,0,2,62,126
+,Thailand,,Bangkok,8 Soi Sukhumvit 40,10110,,,1,0,0
+,United Kingdom,-,Burnham,Stomp Road,SL1 7NW,0,0,1,21,34
+,United Kingdom,-,Glasgow,200 St Vincent Street,G2 5SG,0,0,2,8,14
+,United Kingdom,-,London,110 Southwark Street,SE1 0TA,0,0,3,522,322
+,United Kingdom,-,London,"Village 9, Floor 26 Heron Tower 110 Bishopsgate",EC2,0,0,11,983,1573
+,United Kingdom,-,Manchester,1 St. Peter`s Square,M2 3AE UK,0,0,2,15,35
+,United Kingdom,-,Reading,9 Greyfriars Road,RG1 1NU,0,0,2,12,16
+,United Kingdom,-,Staines,"Lotus Two Lotus Park Kinsbury Crescent, the Causeway",TW18 3AD,0,0,3,68,170
+,United States,,Denver,1225 17th Street,80202,,,3,0,0
+,United States,Arizona,Scottsdale,16427 N. Scottsdale Rd. Suite 140,85260,0,0,1,0,0
+,United States,Arkansas,Bentonville,609 SW 8th Street 6th Floor,72712,0,0,2,8,2
+,United States,California,Irvine,"19900 Macarthur Boulevard, Irvine, Ca",92612,0,0,1,42,15
+,United States,California,Irvine,300 Spectrum Center Drive,92618,0,0,2,94,116
+,United States,California,Palo Alto,117 University Avenue,94301,0,0,2,51,38
+,United States,California,Palo Alto,124 University Avenue,94301,0,0,3,128,109
+,United States,California,Palo Alto,180 University Avenue,94301,0,0,1,57,30
+,United States,California,Palo Alto,181 Lytton,94301,,,6,0,0
+,United States,California,Palo Alto,260 California Avenue,94306,0,0,2,165,0
+,United States,California,Palo Alto,"299 California Avenue, 3rd Floor",94306,0,0,1,56,0
+,United States,California,Palo Alto,575 High Street Suite 200,93401,0,0,1,56,59
+,United States,California,San Francisco,123 Mission Street,94105,0,0,8,2,3
+,United States,California,San Francisco,350 Mission Street,94105,0,0,27,1992,1876
+,United States,California,San Francisco,415 Mission Street,94105,0,0,39,4766,4254
+,United States,California,San Francisco,450 Mission Street,94105,0,0,2,16,9
+,United States,California,San Francisco,50 Fremont Street,94105,0,0,38,3594,2995
+,United States,California,San Francisco,542-550 Howard Street,94105,,,17,0,0
+,United States,California,Santa Monica,1442 2nd Street,90401,0,0,2,61,72
+,United States,Colorado,Denver,1550 Wewatta St,80202,0,0,1,30,69
+,United States,Colorado,Denver,1700 Lincoln Street,80204,0,0,1,168,119
+,United States,Colorado,Englewood,"8310 S Valley Highway, Ste 300",80112,0,0,2,12,4
+,United States,Colorado,Louisville,361 Centennial Parkway Suites 270/280,80027,0,0,1,93,94
+,United States,District of Columbia,Washington,1440 G Street NW,20005,0,0,2,30,2
+,United States,District of Columbia,Washington,"1801 K Street, N.W.",20006,0,0,2,389,0
+,United States,Florida,Deerfield Beach,1166 West Newport Center Dr Suite 210,33442,0,0,1,52,35
+,United States,Florida,Tampa,"401 E Jackson St, Ste 3300",33602,0,0,2,36,32
+,United States,Georgia,Alpharetta,"8000 Avalon Blvd, Suite 350",30009,0,0,1,117,101
+,United States,Georgia,Atlanta,1455 Lincoln Parkway,30346,0,0,1,60,52
+,United States,Georgia,Atlanta,"950 East Paces Ferry Road NE Floors 30, 31 & 33",30326,0,0,8,727,784
+,United States,Illinois,Chicago,111 West Illinois Street,60654,0,0,6,804,721
+,United States,Illinois,Chicago,114 West Illinois Street,60654,0,0,3,42,61
+,United States,Illinois,Chicago,20 West Kinzie Street,60654,0,0,2,427,486
+,United States,Illinois,Chicago,205 Wacker Drive,60606,0,0,2,131,113
+,United States,Illinois,Chicago,333 Wolf Point Plaza,60654,,,23,0,0
+,United States,Illinois,Chicago,500-508 North Clark Street,60654,0,0,2,0,0
+,United States,Illinois,Naperville,"55 Shuman Blvd, Ste 1025",60563,0,0,1,27,16
+,United States,Indiana,Indianapolis,111 Monument Circle,46204,0,0,14,1437,1622
+,United States,Indiana,Indianapolis,433 North Capitol Avenue,46204,0,0,4,522,461
+,United States,Massachusetts,Boston,500 Boylston Street,2116,0,0,2,138,247
+,United States,Massachusetts,Burlington,35 Corporate Drive,1803,0,0,1,134,0
+,United States,Massachusetts,Burlington,5 Wall Street,1803,0,0,4,601,573
+,United States,Massachusetts,Cambridge,"210 Broadway, Suite 201",2139,0,0,1,28,13
+,United States,Massachusetts,Cambridge,955 Massachusetts Avenue,2139,0,0,2,75,64
+,United States,Massachusetts,Somerville,212 Elm Street,2144,0,0,2,83,62
+,United States,Massachusetts,Somerville,"One Davis Square, 3rd Floor",2144,0,0,1,55,0
+,United States,Michigan,Detroit,1449 Woodward Ave.,48226,0,0,1,6,0
+,United States,Minnesota,Mendota Heights,"2520 Pilot Knob Road, Mendota Heights",55120,0,0,1,0,0
+,United States,Minnesota,Minneapolis,225 South 6th St,55402,0,0,1,12,0
+,United States,New York,New York,111 West 33rd Street,10120,0,0,1,0,0
+,United States,New York,New York,"275 Seventh Avenue, 7th Floor",10001,0,0,2,6,0
+,United States,New York,New York,"3 Bryant Park 1095 Avenue of the Americas Flr 17-20, 23 & 41",10036,0,0,9,1050,1277
+,United States,North Carolina,Charlotte,5200 77 Center Drive,28217,0,0,2,172,47
+,United States,North Carolina,Raleigh,223 S West Street,27603,0,0,1,101,92
+,United States,Oregon,Hillsboro,2035 NE Cornelius Pass Road,97124,0,0,4,603,454
+,United States,Pennsylvania,Fort Washington,"500 Office Center Drive, Suite 400",19034,0,0,1,5,0
+,United States,Pennsylvania,Pittsburgh,322 Northshore Drive,15212,0,0,2,4,1
+,United States,Tennessee,Knoxville,2095 Lakeside Centre Way,37922,0,0,1,6,5
+,United States,Texas,Austin,100 Congress Ave,78701,0,0,1,16,63
+,United States,Texas,Austin,600 Congress Avenue,78701,0,0,9,444,309
+,United States,Texas,Dallas,1920 Mckinney Ave,75201,0,0,2,128,10
+,United States,Texas,Dallas,2300 N Field St,75201,0,0,4,781,522
+,United States,Texas,Houston,2101 Citywest Blvd.,77042,0,0,1,18,19
+,United States,Utah,Salt Lake City,224 South 200 West,84101,0,0,4,266,148
+,United States,Virginia,Herndon,2550 Wasser Terrace,20171-6177,0,0,2,277,277
+,United States,Virginia,Herndon,3074 Centreville Road,20171,0,0,1,2,0
+,United States,Virginia,Reston,11720 Plaza America Dr,20190,0,0,1,220,321
+,United States,Washington,Bellevue,929 108th Ave NE,98004,0,0,7,1221,934
+,United States,Washington,Kirkland,400 Parkplace Center,98033,0,0,4,690,580
+,United States,Washington,Kirkland,"400 Parkplace Suites 500, 600, 700",98033,,,4,0,0
+,United States,Washington,Seattle,1000 N. Northlake Way,98103,0,0,2,165,129
+,United States,Washington,Seattle,1441 N. 34th Street,98103,0,0,3,139,0
+,United States,Washington,Seattle,1621 N 34th Street,98103,0,0,4,1195,916
+,United States,Washington,Seattle,437 North 34th Street,98103,,,3,0,0
+,United States,Washington,Seattle,701 N. 34th Street,98103,,,4,0,0
+,United States,Washington,Seattle,744 N. 34th Seattle,98102,,,5,809,699
+,United States,Washington,Seattle,"837 North 34th Street, Lakeview Building 701 North 34th Street, Plaza Building",98103,,,2,0,0
+,United States,Washington,Spokane Valley,12825 East Mirabeau Parkway,99216,0,0,2,97,35
+,Unknown,a,Unknown,Unknown,,0,0,1,0,1294
