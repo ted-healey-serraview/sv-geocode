@@ -1,325 +1,250 @@
 ---
-City,Country:
-- -24.94149555
-- -53.450866938515105
-Melbourne,Australia:
-- -37.8142176
-- 144.9631608
-Buenos Aires,Argentina:
-- -34.6075682
-- -58.4370894
-Pilar,Argentina:
-- -34.4570918
-- -58.9141609
-Brisbane,Australia:
-- -27.4689682
-- 153.0234991
-Canberra,Australia:
-- -35.2975906
-- 149.1012676
-Sydney,Australia:
-- -33.8548157
-- 151.2164539
-Brussels,Belgium:
-- 50.8436709
-- 4.3674366933879565
-Zaventem,Belgium:
-- 50.8806207
-- 4.4730008
-Sao Paulo,Brazil:
-- -23.5506507
-- -46.6333824
-Vancouver,Canada:
-- 49.2608724
-- -123.1139529
-Fredericton,Canada:
-- 45.966425
-- -66.645813
-Saint John,Canada:
-- 45.278752
-- -66.058044
-Halifax,Canada:
-- 44.648618
-- -63.5859487
-Toronto,Canada:
-- 43.653963
-- -79.387207
-Montreal,Canada:
-- 45.4972159
-- -73.6103642
-Beijing,China:
-- 39.906217
-- 116.3912757
-Shanghai,China:
-- 31.2252985
-- 121.4890497
-Hellerup,Denmark:
-- 55.7336657
-- 12.5655408
-Espoo,Finland:
-- 60.2241869
-- 24.6603626
-Paris,France:
-- 48.8566969
-- 2.3514616
-Grenoble,France:
-- 45.1875602
-- 5.7357819
-Lyon,France:
-- 45.7578137
-- 4.8320114
-Nantes,France:
-- 47.2186371
-- -1.5541362
-Frankfurt,Germany:
-- 50.1106444
-- 8.6820917
-Munich,Germany:
-- 48.1371079
-- 11.5753822
-Berlin,Germany:
-- 52.5170365
-- 13.3888599
-Dusseldorf,Germany:
-- 51.2254018
-- 6.7763137
-Hamburg,Germany:
-- 53.5437641
-- 10.0099133
-Jena,Germany:
-- 50.9281717
-- 11.5879359
-Hong Kong,Hong Kong:
-- 22.2793278
-- 114.1628131
-Bangalore,India:
-- 12.9791198
-- 77.5912997
-Gurgaon,India:
-- 28.42826235
-- 77.00270014657752
-Hyderabad,India:
-- 17.38878595
-- 78.46106473453146
-Mumbai,India:
-- 18.9387711
-- 72.8353355
-Dublin,Ireland:
-- 53.3497645
-- -6.2602732
-Nazareth,Israel:
-- 32.7066301
-- 35.3048161
-Petah Tikva,Israel:
-- 32.0877639
-- 34.8859985
-Tel Aviv,Israel:
-- 32.0804808
-- 34.7805274
-Milan,Italy:
-- 45.4668
-- 9.1905
-Rome,Italy:
-- 41.8933203
-- 12.4829321
-Tokyo,Japan:
-- 35.6828387
-- 139.7594549
-Fukuoka,Japan:
-- 33.6251241
-- 130.6180016
-Hiroshima,Japan:
-- 34.3916058
-- 132.4518156
-Nagoya,Japan:
-- 35.1851045
-- 136.8998438
-Osaka,Japan:
-- 34.6198813
-- 135.490357
-Wakayama,Japan:
-- 33.8070292
-- 135.5930743
-Mexico City,Mexico:
-- 19.4326296
-- -99.1331785
-Casablanca,Morocco:
-- 33.5950627
-- -7.6187768
-Amsterdam,Netherlands:
-- 52.37454030000001
-- 4.897975505617977
-Auckland,New Zealand:
-- -36.852095
-- 174.7631803
-Oslo,Norway:
-- 59.9133301
-- 10.7389701
-Remote,Remote:
-- 36.99186575
-- -122.05303451425964
-Singapore,Singapore:
-- 1.3408630000000001
-- 103.83039182212079
-Barcelona,Spain:
-- 41.3828939
-- 2.1774322
-Madrid,Spain:
-- 40.4167047
-- -3.7035825
-Stockholm,Sweden:
-- 59.3251172
-- 18.0710935
-Morges,Switzerland:
-- 46.5093268
-- 6.498317
-Zurich,Switzerland:
-- 47.3723941
-- 8.5423328
-Bangkok,Thailand:
-- 13.7542529
-- 100.493087
-Burnham,United Kingdom:
-- 51.5233926
-- -0.6470844
-Glasgow,United Kingdom:
-- 55.8609825
-- -4.2488787
-London,United Kingdom:
-- 51.5073219
-- -0.1276474
-Manchester,United Kingdom:
-- 53.4794892
-- -2.2451148
-Reading,United Kingdom:
-- 51.45149525
-- -0.9836342499365378
-Staines,United Kingdom:
-- 51.434012
-- -0.511044
-Denver,United States:
-- 39.7392364
-- -104.9848623
-Scottsdale,United States:
-- 33.4942189
-- -111.9260184
-Bentonville,United States:
-- 36.3728538
-- -94.2088172
-Irvine,United States:
-- 33.6856969
-- -117.8259819
-Palo Alto,United States:
-- 37.4443293
-- -122.1598465
-San Francisco,United States:
-- 37.7790262
-- -122.4199061
-Santa Monica,United States:
-- 34.0250724
-- -118.4965129
-Englewood,United States:
-- 39.6482059
-- -104.9879641
-Louisville,United States:
-- 38.2542376
-- -85.759407
-Washington,United States:
-- 38.8948932
-- -77.0365529
-Deerfield Beach,United States:
-- 26.318342
-- -80.0996306
-Tampa,United States:
-- 27.9477595
-- -82.458444
-Alpharetta,United States:
-- 34.0709576
-- -84.2747329
-Atlanta,United States:
-- 33.7490987
-- -84.3901849
-Chicago,United States:
-- 41.8755616
-- -87.6244212
-Naperville,United States:
-- 41.7728699
-- -88.1479278
-Indianapolis,United States:
-- 39.7683331
-- -86.1583502
-Boston,United States:
-- 42.3602534
-- -71.0582912
-Burlington,United States:
-- 44.4762975
-- -73.2135472
-Cambridge,United States:
-- 42.3750997
-- -71.1056157
-Somerville,United States:
-- 42.3875968
-- -71.0994968
-Detroit,United States:
-- 42.3315509
-- -83.0466403
-Mendota Heights,United States:
-- 44.8835768
-- -93.1382749
-Minneapolis,United States:
-- 44.9772995
-- -93.2654692
-New York,United States:
-- 40.7127281
-- -74.0060152
-Charlotte,United States:
-- 35.2270869
-- -80.8431268
-Raleigh,United States:
-- 35.7803977
-- -78.6390989
-Hillsboro,United States:
-- 45.5228939
-- -122.989827
-Fort Washington,United States:
-- 38.7125305
-- -77.0124598
-Pittsburgh,United States:
-- 40.4416941
-- -79.9900861
-Knoxville,United States:
-- 35.9603948
-- -83.9210261
-Austin,United States:
-- 30.2711286
-- -97.7436995
-Dallas,United States:
-- 32.7762719
-- -96.7968559
-Houston,United States:
-- 29.7589382
-- -95.3676974
-Salt Lake City,United States:
-- 40.7596198
-- -111.8867975
-Herndon,United States:
-- 39.909726
-- -100.785153
-Reston,United States:
-- 38.9584018
-- -77.3579743
-Bellevue,United States:
-- 47.6144219
-- -122.1923372
-Kirkland,United States:
-- 47.6859573
-- -122.1920249
-Seattle,United States:
-- 47.6038321
-- -122.3300624
-Spokane Valley,United States:
-- 47.6571104
-- -117.2613936
-Unknown,Unknown:
-- -14.315566650000001
-- -71.6776002057072
+Melbourne,Australia: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235680981
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2404870
+    boundingbox:
+    - "-37.85067"
+    - "-37.77545"
+    - '144.89709'
+    - '144.9913426'
+    lat: "-37.8142176"
+    lon: '144.9631608'
+    display_name: City of Melbourne, Victoria, Australia
+    class: boundary
+    type: administrative
+    importance: 0.9145132254043735
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      county: City of Melbourne
+      state: Victoria
+      country: Australia
+      country_code: au
+  cache_hit: 
+Buenos Aires,Argentina: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235591393
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1224652
+    boundingbox:
+    - "-34.705637"
+    - "-34.5265535"
+    - "-58.5314494"
+    - "-58.3351249"
+    lat: "-34.6075682"
+    lon: "-58.4370894"
+    display_name: Autonomous City of Buenos Aires, Argentina
+    class: boundary
+    type: administrative
+    importance: 1.0379817834797909
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Autonomous City of Buenos Aires
+      state: Autonomous City of Buenos Aires
+      country: Argentina
+      country_code: ar
+  cache_hit: 
+Pilar,Argentina: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235572805
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2514006
+    boundingbox:
+    - "-34.5013473"
+    - "-34.4007523"
+    - "-58.9615166"
+    - "-58.8657063"
+    lat: "-34.4570918"
+    lon: "-58.9141609"
+    display_name: Pilar, Partido del Pilar, Buenos Aires, Argentina
+    class: boundary
+    type: administrative
+    importance: 0.6352885055796393
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Pilar
+      state_district: Partido del Pilar
+      state: Buenos Aires
+      country: Argentina
+      country_code: ar
+  cache_hit: 
+Brisbane,Australia: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 16445758
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1546628274
+    boundingbox:
+    - "-27.6289682"
+    - "-27.3089682"
+    - '152.8634991'
+    - '153.1834991'
+    lat: "-27.4689682"
+    lon: '153.0234991'
+    display_name: Brisbane, Queensland, 4004, Australia
+    class: place
+    type: city
+    importance: 0.8894082277592821
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Brisbane
+      state: Queensland
+      country: Australia
+      country_code: au
+  cache_hit: 
+Canberra,Australia: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 117021
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 21674637
+    boundingbox:
+    - "-35.4575906"
+    - "-35.1375906"
+    - '148.9412676'
+    - '149.2612676'
+    lat: "-35.2975906"
+    lon: '149.1012676'
+    display_name: Canberra, District of Canberra Central, Australian Capital Territory,
+      2600, Australia
+    class: place
+    type: city
+    importance: 0.8458161709267285
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Canberra
+      county: District of Canberra Central
+      state: Australian Capital Territory
+      country: Australia
+      country_code: au
+  cache_hit: 
+Sydney,Australia: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235900827
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 5750005
+    boundingbox:
+    - "-34.1732416"
+    - "-33.3641481"
+    - '150.260825'
+    - '151.3427428'
+    lat: "-33.8548157"
+    lon: '151.2164539'
+    display_name: Sydney, Australia
+    class: boundary
+    type: administrative
+    importance: 0.9445908962989684
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      county: Sydney
+      country: Australia
+      country_code: au
+  cache_hit: 
+Brussels,Belgium: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 277128259
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2404021
+    boundingbox:
+    - '50.7964079'
+    - '50.890497'
+    - '4.3355849'
+    - '4.4020115'
+    lat: '50.8436709'
+    lon: '4.3674366933879565'
+    display_name: Brussels, Ville de Bruxelles - Stad Brussel, Brussels-Capital, Belgium
+    class: boundary
+    type: administrative
+    importance: 0.897529645090779
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city_district: Brussels
+      city: Ville de Bruxelles - Stad Brussel
+      state: Brussels-Capital
+      country: Belgium
+      country_code: be
+  cache_hit: 
+Zaventem,Belgium: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235309565
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 196184
+    boundingbox:
+    - '50.834319'
+    - '50.9024643'
+    - '4.4208709'
+    - '4.5363889'
+    lat: '50.8806207'
+    lon: '4.4730008'
+    display_name: Zaventem, Flemish Brabant, Flanders, Belgium
+    class: boundary
+    type: administrative
+    importance: 0.6887692501280909
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Zaventem
+      county: Flemish Brabant
+      state: Flanders
+      country: Belgium
+      country_code: be
+  cache_hit: 
+Sao Paulo,Brazil: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235483727
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 298285
+    boundingbox:
+    - "-24.0079003"
+    - "-23.3577551"
+    - "-46.8262906"
+    - "-46.3650898"
+    lat: "-23.5506507"
+    lon: "-46.6333824"
+    display_name: São Paulo, Região Imediata de São Paulo, Região Metropolitana de
+      São Paulo, Região Intermediária de São Paulo, São Paulo, Southeast Region, Brazil
+    class: boundary
+    type: administrative
+    importance: 0.8961749119420277
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: São Paulo
+      county: Região Imediata de São Paulo
+      state_district: Região Intermediária de São Paulo
+      state: São Paulo
+      country: Brazil
+      country_code: br
+  cache_hit: 
+Vancouver,Canada: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235449289
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1852574
+    boundingbox:
+    - '49.1984452'
+    - '49.3161714'
+    - "-123.2249611"
+    - "-123.0232419"
+    lat: '49.2608724'
+    lon: "-123.1139529"
+    display_name: Vancouver, Metro Vancouver Regional District, British Columbia,
+      Canada
+    class: boundary
+    type: administrative
+    importance: 0.9069679506485442
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Vancouver
+      county: Metro Vancouver Regional District
+      state: British Columbia
+      country: Canada
+      country_code: ca
+  cache_hit: 

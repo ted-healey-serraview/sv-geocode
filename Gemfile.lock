@@ -1,14 +1,20 @@
 GEM
   specs:
-    byebug (11.0.1)
+    awesome_print (1.8.0)
+    coderay (1.1.2)
     geocoder (1.5.1)
+    method_source (0.9.2)
+    pry (0.12.2)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  byebug
+  awesome_print
   geocoder
+  pry
 
 BUNDLED WITH
    2.1.4
