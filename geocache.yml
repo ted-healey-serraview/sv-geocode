@@ -93,6 +93,7 @@ Brisbane,Australia: !ruby/object:Geocoder::Result::Nominatim
     address:
       city: Brisbane
       state: Queensland
+      postcode: '4004'
       country: Australia
       country_code: au
   cache_hit: 
@@ -119,6 +120,7 @@ Canberra,Australia: !ruby/object:Geocoder::Result::Nominatim
       city: Canberra
       county: District of Canberra Central
       state: Australian Capital Territory
+      postcode: '2600'
       country: Australia
       country_code: au
   cache_hit: 
@@ -247,4 +249,2473 @@ Vancouver,Canada: !ruby/object:Geocoder::Result::Nominatim
       state: British Columbia
       country: Canada
       country_code: ca
+  cache_hit: 
+Fredericton,Canada: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235992032
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 5987150
+    boundingbox:
+    - '45.8688815'
+    - '46.0281325'
+    - "-66.7834004"
+    - "-66.5503459"
+    lat: '45.966425'
+    lon: "-66.645813"
+    display_name: Fredericton, York County, New Brunswick, Canada
+    class: boundary
+    type: administrative
+    importance: 0.7295427159898735
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Fredericton
+      county: Fredericton
+      state: New Brunswick
+      country: Canada
+      country_code: ca
+  cache_hit: 
+Saint John,Canada: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 349991
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 129999186
+    boundingbox:
+    - '45.118752'
+    - '45.438752'
+    - "-66.218044"
+    - "-65.898044"
+    lat: '45.278752'
+    lon: "-66.058044"
+    display_name: Saint John, City of Saint John, Saint John County, New Brunswick,
+      E2L 3L6, Canada
+    class: place
+    type: city
+    importance: 0.8382348982359871
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Saint John
+      county: City of Saint John
+      state: New Brunswick
+      postcode: E2L 3L6
+      country: Canada
+      country_code: ca
+  cache_hit: 
+Halifax,Canada: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 236487483
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 9092218
+    boundingbox:
+    - '44.581167'
+    - '44.7112114'
+    - "-63.7226577"
+    - "-63.5431999"
+    lat: '44.648618'
+    lon: "-63.5859487"
+    display_name: Halifax, Halifax County, Halifax Regional Municipality, Nova Scotia,
+      Canada
+    class: boundary
+    type: administrative
+    importance: 0.8057392838684598
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Halifax
+      county: Halifax County
+      state: Nova Scotia
+      country: Canada
+      country_code: ca
+  cache_hit: 
+Toronto,Canada: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 111826
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 18063533
+    boundingbox:
+    - '43.4934817'
+    - '43.8134817'
+    - "-79.5439347"
+    - "-79.2239347"
+    lat: '43.6534817'
+    lon: "-79.3839347"
+    display_name: Toronto, Golden Horseshoe, Ontario, M5H 2N2, Canada
+    class: place
+    type: city
+    importance: 0.9330149417022804
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Toronto
+      state_district: Golden Horseshoe
+      state: Ontario
+      postcode: M5H 2N2
+      country: Canada
+      country_code: ca
+  cache_hit: 
+Montreal,Canada: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235500366
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1634158
+    boundingbox:
+    - '45.4100756'
+    - '45.7047897'
+    - "-73.9741567"
+    - "-73.4742952"
+    lat: '45.4972159'
+    lon: "-73.6103642"
+    display_name: Montreal, Urban agglomeration of Montreal, Montreal (06), Quebec,
+      Canada
+    class: boundary
+    type: administrative
+    importance: 0.9317364878160477
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Montreal
+      county: Urban agglomeration of Montreal
+      region: Montreal (06)
+      state: Quebec
+      country: Canada
+      country_code: ca
+  cache_hit: 
+Beijing,China: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 119751
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 25248662
+    boundingbox:
+    - '39.746217'
+    - '40.066217'
+    - '116.2312757'
+    - '116.5512757'
+    lat: '39.906217'
+    lon: '116.3912757'
+    display_name: Beijing, Dongcheng District, Beijing, 100010, China
+    class: place
+    type: city
+    importance: 0.9544014383682882
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Beijing
+      state: Beijing
+      postcode: '100010'
+      country: China
+      country_code: cn
+  cache_hit: 
+Shanghai,China: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 7041640
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 778910398
+    boundingbox:
+    - '31.0652985'
+    - '31.3852985'
+    - '121.3290497'
+    - '121.6490497'
+    lat: '31.2252985'
+    lon: '121.4890497'
+    display_name: Shanghai, Huangpu District, Shanghai, 200010, China
+    class: place
+    type: city
+    importance: 0.9111228945606198
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Shanghai
+      county: Huangpu District
+      state: Shanghai
+      postcode: '200010'
+      country: China
+      country_code: cn
+  cache_hit: 
+Hellerup,Denmark: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 122346
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 25260966
+    boundingbox:
+    - '55.7136657'
+    - '55.7536657'
+    - '12.5455408'
+    - '12.5855408'
+    lat: '55.7336657'
+    lon: '12.5655408'
+    display_name: Hellerup, Klampenborg, Gentofte Municipality, Capital Region of
+      Denmark, 2900, Denmark
+    class: place
+    type: suburb
+    importance: 0.6698206832943018
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png
+    address:
+      suburb: Hellerup
+      village: Klampenborg
+      county: Gentofte Municipality
+      state: Capital Region of Denmark
+      postcode: '2900'
+      country: Denmark
+      country_code: dk
+  cache_hit: 
+Espoo,Finland: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 232904384
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 36097
+    boundingbox:
+    - '59.9010905'
+    - '60.3639149'
+    - '24.4992905'
+    - '24.9423061'
+    lat: '60.2241869'
+    lon: '24.6603626'
+    display_name: Espoo, Helsinki sub-region, Uusimaa, Mainland Finland, Finland
+    class: boundary
+    type: administrative
+    importance: 0.7910136137586612
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Espoo
+      county: Helsinki sub-region
+      state: Mainland Finland
+      country: Finland
+      country_code: fi
+  cache_hit: 
+Paris,France: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234423737
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 7444
+    boundingbox:
+    - '48.8155755'
+    - '48.902156'
+    - '2.224122'
+    - '2.4697602'
+    lat: '48.8566969'
+    lon: '2.3514616'
+    display_name: Paris, Ile-de-France, Metropolitan France, France
+    class: boundary
+    type: administrative
+    importance: 1.0517101715588673
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Paris
+      county: Paris
+      state: Ile-de-France
+      country: France
+      country_code: fr
+  cache_hit: 
+Grenoble,France: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235189869
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 80348
+    boundingbox:
+    - '45.1541442'
+    - '45.2140762'
+    - '5.6776059'
+    - '5.7531176'
+    lat: '45.1875602'
+    lon: '5.7357819'
+    display_name: Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, France
+    class: boundary
+    type: administrative
+    importance: 0.8618085495723451
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Grenoble
+      county: Grenoble
+      state: Auvergne-Rhône-Alpes
+      country: France
+      country_code: fr
+  cache_hit: 
+Lyon,France: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 233162703
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 120965
+    boundingbox:
+    - '45.7073666'
+    - '45.8082628'
+    - '4.7718134'
+    - '4.8983774'
+    lat: '45.7578137'
+    lon: '4.8320114'
+    display_name: Lyon, Métropole de Lyon, Departemental constituency of Rhône, Auvergne-Rhône-Alpes,
+      Metropolitan France, France
+    class: boundary
+    type: administrative
+    importance: 0.9113775965432667
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Lyon
+      county: Lyon
+      state_district: Departemental constituency of Rhône
+      state: Auvergne-Rhône-Alpes
+      country: France
+      country_code: fr
+  cache_hit: 
+Nantes,France: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234454081
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 59874
+    boundingbox:
+    - '47.1805856'
+    - '47.2958583'
+    - "-1.6418115"
+    - "-1.4788443"
+    lat: '47.2186371'
+    lon: "-1.5541362"
+    display_name: Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France,
+      France
+    class: boundary
+    type: administrative
+    importance: 0.8630886552278882
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Nantes
+      county: Nantes
+      state: Pays de la Loire
+      country: France
+      country_code: fr
+  cache_hit: 
+Frankfurt,Germany: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 145178
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 27418664
+    boundingbox:
+    - '49.9506444'
+    - '50.2706444'
+    - '8.5220917'
+    - '8.8420917'
+    lat: '50.1106444'
+    lon: '8.6820917'
+    display_name: Frankfurt, Hesse, 60311, Germany
+    class: place
+    type: city
+    importance: 0.9141325622496304
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Frankfurt
+      county: Frankfurt
+      state: Hesse
+      postcode: '60311'
+      country: Germany
+      country_code: de
+  cache_hit: 
+Munich,Germany: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235126281
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 62428
+    boundingbox:
+    - '48.0616244'
+    - '48.2481162'
+    - '11.360777'
+    - '11.7229083'
+    lat: '48.1371079'
+    lon: '11.5753822'
+    display_name: Munich, Bavaria, Germany
+    class: boundary
+    type: administrative
+    importance: 0.9662108837044543
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      county: Munich
+      state: Bavaria
+      country: Germany
+      country_code: de
+  cache_hit: 
+Berlin,Germany: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 281720585
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 62422
+    boundingbox:
+    - '52.3382448'
+    - '52.6755087'
+    - '13.088345'
+    - '13.7611609'
+    lat: '52.5170365'
+    lon: '13.3888599'
+    display_name: Berlin, Germany
+    class: boundary
+    type: administrative
+    importance: 1.0075390282491363
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      state: Berlin
+      country: Germany
+      country_code: de
+  cache_hit: 
+Dusseldorf,Germany: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 615317
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 240126753
+    boundingbox:
+    - '51.0654018'
+    - '51.3854018'
+    - '6.6163137'
+    - '6.9363137'
+    lat: '51.2254018'
+    lon: '6.7763137'
+    display_name: Dusseldorf, Düsseldorf, North Rhine-Westphalia, 40213, Germany
+    class: place
+    type: city
+    importance: 0.8926086852077879
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Dusseldorf
+      county: Düsseldorf
+      state: North Rhine-Westphalia
+      postcode: '40213'
+      country: Germany
+      country_code: de
+  cache_hit: 
+Hamburg,Germany: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 4878941
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 565666208
+    boundingbox:
+    - '50.9837641'
+    - '56.1037641'
+    - '7.4499133'
+    - '12.5699133'
+    lat: '53.5437641'
+    lon: '10.0099133'
+    display_name: Hamburg, Germany
+    class: place
+    type: state
+    importance: 0.9455256463088224
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      state: Hamburg
+      country: Germany
+      country_code: de
+  cache_hit: 
+Jena,Germany: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 610282
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 240090160
+    boundingbox:
+    - '50.7681717'
+    - '51.0881717'
+    - '11.4279359'
+    - '11.7479359'
+    lat: '50.9281717'
+    lon: '11.5879359'
+    display_name: Jena, Thuringia, 07743, Germany
+    class: place
+    type: city
+    importance: 0.8226089797718334
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Jena
+      county: Jena
+      state: Thuringia
+      postcode: '07743'
+      country: Germany
+      country_code: de
+  cache_hit: 
+Hong Kong,Hong Kong: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 34513433
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2833125787
+    boundingbox:
+    - '22.1193278'
+    - '22.4393278'
+    - '114.0028131'
+    - '114.3228131'
+    lat: '22.2793278'
+    lon: '114.1628131'
+    display_name: Hong Kong, Central and Western District, Hong Kong Island, Hong
+      Kong, 999077, China
+    class: place
+    type: city
+    importance: 1.1643017260100437
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Hong Kong
+      county: Central and Western District
+      state_district: Hong Kong Island
+      postcode: '999077'
+      country: China
+      country_code: cn
+  cache_hit: 
+Bangalore,India: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 236282039
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 7902476
+    boundingbox:
+    - '12.8340125'
+    - '13.1436649'
+    - '77.4601025'
+    - '77.7840515'
+    lat: '12.9791198'
+    lon: '77.5912997'
+    display_name: Bengaluru, Bangalore North, Bangalore Urban, Karnataka, India
+    class: boundary
+    type: administrative
+    importance: 0.8194348238975637
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Bengaluru
+      county: Bangalore North
+      state_district: Bangalore Urban
+      state: Karnataka
+      country: India
+      country_code: in
+  cache_hit: 
+Gurgaon,India: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 236360432
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 10398244
+    boundingbox:
+    - '28.3153915'
+    - '28.5409048'
+    - '76.8656338'
+    - '77.1265409'
+    lat: '28.42826235'
+    lon: '77.00270014657752'
+    display_name: Gurgaon, Gurugram, Haryana, India
+    class: boundary
+    type: administrative
+    importance: 0.67
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      county: Gurgaon
+      city: Gurugram
+      state: Haryana
+      country: India
+      country_code: in
+  cache_hit: 
+Hyderabad,India: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 236083134
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 7255986
+    boundingbox:
+    - '17.2931295'
+    - '17.4843058'
+    - '78.3819883'
+    - '78.5563157'
+    lat: '17.38878595'
+    lon: '78.46106473453146'
+    display_name: Hyderabad, Telangana, India
+    class: boundary
+    type: administrative
+    importance: 0.5857817692978653
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      state_district: Hyderabad
+      state: Telangana
+      country: India
+      country_code: in
+  cache_hit: 
+Mumbai,India: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 236534418
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 7888990
+    boundingbox:
+    - '18.8939566'
+    - '19.2701767'
+    - '72.776333'
+    - '72.9797315'
+    lat: '18.9387711'
+    lon: '72.8353355'
+    display_name: Mumbai, Mumbai City, Maharashtra, India
+    class: boundary
+    type: administrative
+    importance: 0.879949910197148
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Mumbai
+      state_district: Mumbai City
+      state: Maharashtra
+      country: India
+      country_code: in
+  cache_hit: 
+Dublin,Ireland: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235527011
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1109531
+    boundingbox:
+    - '53.2987342'
+    - '53.4105416'
+    - "-6.3870259"
+    - "-6.1148829"
+    lat: '53.3497645'
+    lon: "-6.2602732"
+    display_name: Dublin, County Dublin, Leinster, Ireland
+    class: boundary
+    type: administrative
+    importance: 0.921589607173273
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      county: Dublin
+      state_district: Leinster
+      country: Ireland
+      country_code: ie
+  cache_hit: 
+Nazareth,Israel: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 209757197
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 610607686
+    boundingbox:
+    - '32.6799347'
+    - '32.7216107'
+    - '35.2736952'
+    - '35.3124655'
+    lat: '32.70062375'
+    lon: '35.296239962241806'
+    display_name: Nazareth, North District, 16161, Israel
+    class: place
+    type: city
+    importance: 0.8086477742029698
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Nazareth
+      state: North District
+      postcode: '16161'
+      country: Israel
+      country_code: il
+  cache_hit: 
+Petah Tikva,Israel: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 145659471
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 242464393
+    boundingbox:
+    - '32.0670441'
+    - '32.1143913'
+    - '34.8458773'
+    - '34.9203342'
+    lat: '32.0877639'
+    lon: '34.8859985'
+    display_name: Petah Tikva, Center District, Israel
+    class: place
+    type: city
+    importance: 0.8562335794056065
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Petah Tikva
+      state: Center District
+      country: Israel
+      country_code: il
+  cache_hit: 
+Tel Aviv,Israel: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235455773
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1382494
+    boundingbox:
+    - '32.0293437'
+    - '32.1469766'
+    - '34.739131'
+    - '34.8522454'
+    lat: '32.0804808'
+    lon: '34.7805274'
+    display_name: Tel Aviv-Yafo, Tel Aviv District, Israel
+    class: boundary
+    type: administrative
+    importance: 0.9599881947160822
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Tel Aviv-Yafo
+      state: Tel Aviv District
+      country: Israel
+      country_code: il
+  cache_hit: 
+Milan,Italy: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235220628
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4668'
+    lon: '9.1905'
+    display_name: Milan, Lombardy, Italy
+    class: boundary
+    type: administrative
+    importance: 0.9590652078701349
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Milan
+      county: Milan
+      state: Lombardy
+      country: Italy
+      country_code: it
+  cache_hit: 
+Rome,Italy: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235211175
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Rome, Roma Capitale, Italy
+    class: boundary
+    type: administrative
+    importance: 1.0096107180689524
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Rome
+      county: Roma Capitale
+      country: Italy
+      country_code: it
+  cache_hit: 
+Tokyo,Japan: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235620763
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1543125
+    boundingbox:
+    - '20.2145811'
+    - '35.8984245'
+    - '135.8536855'
+    - '154.205541'
+    lat: '35.6828387'
+    lon: '139.7594549'
+    display_name: Tokyo, Japan
+    class: boundary
+    type: administrative
+    importance: 0.9793311914925307
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      state: Tokyo
+      country: Japan
+      country_code: jp
+  cache_hit: 
+Fukuoka,Japan: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235634053
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1553735
+    boundingbox:
+    - '32.9397302'
+    - '34.6474905'
+    - '129.8133106'
+    - '131.2494964'
+    lat: '33.6251241'
+    lon: '130.6180016'
+    display_name: Fukuoka Prefecture, Japan
+    class: boundary
+    type: administrative
+    importance: 0.8611631285069892
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      state: Fukuoka Prefecture
+      country: Japan
+      country_code: jp
+  cache_hit: 
+Hiroshima,Japan: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235798699
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 4097196
+    boundingbox:
+    - '34.2857459'
+    - '34.614767'
+    - '132.178545'
+    - '132.696098'
+    lat: '34.3916058'
+    lon: '132.4518156'
+    display_name: Hiroshima, Hiroshima Prefecture, Japan
+    class: boundary
+    type: administrative
+    importance: 0.846336883362659
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      county: Hiroshima
+      state: Hiroshima Prefecture
+      country: Japan
+      country_code: jp
+  cache_hit: 
+Nagoya,Japan: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 236043369
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 4576938
+    boundingbox:
+    - '35.0259512'
+    - '35.260229'
+    - '136.791969'
+    - '137.060899'
+    lat: '35.1851045'
+    lon: '136.8998438'
+    display_name: Nagoya, Aichi Prefecture, Japan
+    class: boundary
+    type: administrative
+    importance: 0.8652453548304202
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      county: Nagoya
+      state: Aichi Prefecture
+      country: Japan
+      country_code: jp
+  cache_hit: 
+Osaka,Japan: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235154276
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 341906
+    boundingbox:
+    - '34.271821'
+    - '35.051293'
+    - '135.0258879'
+    - '135.746603'
+    lat: '34.6198813'
+    lon: '135.490357'
+    display_name: Osaka Prefecture, Japan
+    class: boundary
+    type: administrative
+    importance: 0.882755579931374
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      state: Osaka Prefecture
+      country: Japan
+      country_code: jp
+  cache_hit: 
+Wakayama,Japan: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235301104
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 908959
+    boundingbox:
+    - '33.2333216'
+    - '34.3940376'
+    - '134.8804237'
+    - '136.3223029'
+    lat: '33.8070292'
+    lon: '135.5930743'
+    display_name: Wakayama Prefecture, Japan
+    class: boundary
+    type: administrative
+    importance: 0.8138067040794779
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      state: Wakayama Prefecture
+      country: Japan
+      country_code: jp
+  cache_hit: 
+Mexico City,Mexico: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 248473
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 62270270
+    boundingbox:
+    - '19.2726296'
+    - '19.5926296'
+    - "-99.2931785"
+    - "-98.9731785"
+    lat: '19.4326296'
+    lon: "-99.1331785"
+    display_name: Mexico City, Cuauhtémoc, Mexico City, 06060, Mexico
+    class: place
+    type: city
+    importance: 1.1599239324417647
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Mexico City
+      county: Cuauhtémoc
+      state: Mexico City
+      postcode: '06060'
+      country: Mexico
+      country_code: mx
+  cache_hit: 
+Casablanca,Morocco: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 123131
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 25730724
+    boundingbox:
+    - '33.4350627'
+    - '33.7550627'
+    - "-7.7787768"
+    - "-7.4587768"
+    lat: '33.5950627'
+    lon: "-7.6187768"
+    display_name: Casablanca, préfecture d'arrondissements de Casablanca-Anfa عمالة
+      مقاطعات الدار البيضاء أنفا, Pachalik de Casablanca, Prefecture of Casablanca,
+      Casablanca-Settat, 20 000, Morocco
+    class: place
+    type: city
+    importance: 0.8373246396249683
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Casablanca
+      county: préfecture d'arrondissements de Casablanca-Anfa عمالة مقاطعات الدار
+        البيضاء أنفا
+      state_district: Prefecture of Casablanca
+      region: Casablanca-Settat
+      postcode: 20 000
+      country: Morocco
+      country_code: ma
+  cache_hit: 
+Amsterdam,Netherlands: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234896490
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 271110
+    boundingbox:
+    - '52.2781742'
+    - '52.4310638'
+    - '4.7287563'
+    - '5.0791622'
+    lat: '52.37454030000001'
+    lon: '4.897975505617977'
+    display_name: Amsterdam, North Holland, Netherlands, The Netherlands
+    class: boundary
+    type: administrative
+    importance: 0.9468132567757606
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      suburb: Amsterdam
+      city: Amsterdam
+      state: North Holland
+      country: The Netherlands
+      country_code: nl
+  cache_hit: 
+Auckland,New Zealand: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 949046
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 292806332
+    boundingbox:
+    - "-37.012095"
+    - "-36.692095"
+    - '174.6031803'
+    - '174.9231803'
+    lat: "-36.852095"
+    lon: '174.7631803'
+    display_name: Auckland, 1010, New Zealand
+    class: place
+    type: city
+    importance: 0.9584956132983276
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Auckland
+      state: Auckland
+      postcode: '1010'
+      country: New Zealand
+      country_code: nz
+  cache_hit: 
+Oslo,Norway: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 114475
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 20981158
+    boundingbox:
+    - '59.7533301'
+    - '60.0733301'
+    - '10.5789701'
+    - '10.8989701'
+    lat: '59.9133301'
+    lon: '10.7389701'
+    display_name: Oslo, 0026, Norway
+    class: place
+    type: city
+    importance: 0.93373169654299
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Oslo
+      county: Oslo
+      postcode: '0026'
+      country: Norway
+      country_code: 'no'
+  cache_hit: 
+Remote,Remote: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 236397526
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 10372889
+    boundingbox:
+    - '36.991265'
+    - '36.9924627'
+    - "-122.0538323"
+    - "-122.0521853"
+    lat: '36.99186575'
+    lon: "-122.05303451425964"
+    display_name: East Remote Overflow Parking Lot, East Remote Overflow, University
+      of California Santa Cruz, Santa Cruz, Santa Cruz County, California, 95064,
+      United States of America
+    class: amenity
+    type: parking
+    importance: 0.201
+    address:
+      parking: East Remote Overflow Parking Lot
+      road: East Remote Overflow
+      suburb: University of California Santa Cruz
+      city: Santa Cruz
+      county: Santa Cruz County
+      state: California
+      postcode: '95064'
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Singapore,Singapore: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235770446
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1769123
+    boundingbox:
+    - '1.2101324'
+    - '1.4715641'
+    - '103.6056259'
+    - '104.0436413'
+    lat: '1.3408630000000001'
+    lon: '103.83039182212079'
+    display_name: Singapore, Central, Singapore
+    class: place
+    type: island
+    importance: 0.9632767551059058
+    address:
+      island: Singapore
+      city: Singapore
+      county: Central
+      country: Singapore
+      country_code: sg
+  cache_hit: 
+Barcelona,Spain: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235202237
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 347950
+    boundingbox:
+    - '41.3170353'
+    - '41.4679135'
+    - '2.0524977'
+    - '2.2283555'
+    lat: '41.3828939'
+    lon: '2.1774322'
+    display_name: Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain
+    class: boundary
+    type: administrative
+    importance: 0.9635649969503182
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Barcelona
+      county: Barcelonès
+      state: Catalonia
+      postcode: '08001'
+      country: Spain
+      country_code: es
+  cache_hit: 
+Madrid,Spain: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235904826
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 5326784
+    boundingbox:
+    - '40.3119774'
+    - '40.6437293'
+    - "-3.8889539"
+    - "-3.5179163"
+    lat: '40.4167047'
+    lon: "-3.7035825"
+    display_name: Madrid, Área metropolitana de Madrid y Corredor del Henares, Community
+      of Madrid, 28001, Spain
+    class: boundary
+    type: administrative
+    importance: 0.9780703794097987
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Madrid
+      county: Área metropolitana de Madrid y Corredor del Henares
+      state: Community of Madrid
+      postcode: '28001'
+      country: Spain
+      country_code: es
+  cache_hit: 
+Stockholm,Sweden: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 128726
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 25929985
+    boundingbox:
+    - '59.1651172'
+    - '59.4851172'
+    - '17.9110935'
+    - '18.2310935'
+    lat: '59.3251172'
+    lon: '18.0710935'
+    display_name: Stockholm, Stockholms kommun, Stockholm County, Region Svealand,
+      111 29, Sweden
+    class: place
+    type: city
+    importance: 0.9601753019434471
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Stockholm
+      county: Stockholms kommun
+      state: Stockholm County
+      postcode: 111 29
+      country: Sweden
+      country_code: se
+  cache_hit: 
+Morges,Switzerland: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235415409
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1685064
+    boundingbox:
+    - '46.5010171'
+    - '46.5237547'
+    - '6.4765096'
+    - '6.5134688'
+    lat: '46.5093268'
+    lon: '6.498317'
+    display_name: Morges, District de Morges, Vaud, 1110, Switzerland
+    class: boundary
+    type: administrative
+    importance: 0.6998782705020985
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Morges
+      county: District de Morges
+      state: Vaud
+      postcode: '1110'
+      country: Switzerland
+      country_code: ch
+  cache_hit: 
+Zurich,Switzerland: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235509912
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1682248
+    boundingbox:
+    - '47.3202203'
+    - '47.4346662'
+    - '8.4480061'
+    - '8.6254413'
+    lat: '47.3723941'
+    lon: '8.5423328'
+    display_name: Zurich, District Zurich, Zurich, Switzerland
+    class: boundary
+    type: administrative
+    importance: 0.9051374456657506
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Zurich
+      county: District Zurich
+      state: Zurich
+      country: Switzerland
+      country_code: ch
+  cache_hit: 
+Bangkok,Thailand: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 16709446
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1628207792
+    boundingbox:
+    - '13.5942529'
+    - '13.9142529'
+    - '100.333087'
+    - '100.653087'
+    lat: '13.7542529'
+    lon: '100.493087'
+    display_name: Bangkok, Phra Nakhon District, 10200, Thailand
+    class: place
+    type: city
+    importance: 0.886240674905558
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Bangkok
+      suburb: Phra Nakhon District
+      postcode: '10200'
+      country: Thailand
+      country_code: th
+  cache_hit: 
+Burnham,United Kingdom: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 146990
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 27712384
+    boundingbox:
+    - '51.5183926'
+    - '51.5283926'
+    - "-0.6520844"
+    - "-0.6420844"
+    lat: '51.5233926'
+    lon: "-0.6470844"
+    display_name: Burnham, Sandringham Court, Britwell, Slough, South East, England,
+      SL1 6JD, United Kingdom
+    class: railway
+    type: station
+    importance: 0.6300543905581438
+    icon: https://nominatim.openstreetmap.org/images/mapicons/transport_train_station2.p.20.png
+    address:
+      station: Burnham
+      road: Sandringham Court
+      village: Britwell
+      county: Slough
+      state_district: South East
+      state: England
+      postcode: SL1 6JD
+      country: United Kingdom
+      country_code: gb
+  cache_hit: 
+Glasgow,United Kingdom: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 106926
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 11127374
+    boundingbox:
+    - '55.7009825'
+    - '56.0209825'
+    - "-4.4088787"
+    - "-4.0888787"
+    lat: '55.8609825'
+    lon: "-4.2488787"
+    display_name: Glasgow, Glasgow City, Scotland, G2 9SA, United Kingdom
+    class: place
+    type: city
+    importance: 0.9990524930369716
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Glasgow
+      county: Glasgow City
+      state: Scotland
+      postcode: G2 9SA
+      country: United Kingdom
+      country_code: gb
+  cache_hit: 
+London,United Kingdom: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 100200
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 107775
+    boundingbox:
+    - '51.3473219'
+    - '51.6673219'
+    - "-0.2876474"
+    - '0.0323526'
+    lat: '51.5073219'
+    lon: "-0.1276474"
+    display_name: London, Greater London, England, SW1A 2DX, United Kingdom
+    class: place
+    type: city
+    importance: 1.1407827616237296
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: London
+      state_district: Greater London
+      state: England
+      postcode: SW1A 2DX
+      country: United Kingdom
+      country_code: gb
+  cache_hit: 
+Manchester,United Kingdom: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235273075
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 146656
+    boundingbox:
+    - '53.3401044'
+    - '53.5445923'
+    - "-2.3199185"
+    - "-2.1468288"
+    lat: '53.4794892'
+    lon: "-2.2451148"
+    display_name: Manchester, Greater Manchester, North West England, England, United
+      Kingdom
+    class: boundary
+    type: administrative
+    importance: 0.9917187195894088
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Manchester
+      county: Greater Manchester
+      state_district: North West England
+      state: England
+      country: United Kingdom
+      country_code: gb
+  cache_hit: 
+Reading,United Kingdom: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234934492
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 115074
+    boundingbox:
+    - '51.4097707'
+    - '51.493134'
+    - "-1.0529948"
+    - "-0.9284943"
+    lat: '51.45149525'
+    lon: "-0.9836342499365378"
+    display_name: Reading, South East, England, United Kingdom
+    class: boundary
+    type: administrative
+    importance: 0.880143716129904
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      county: Reading
+      state_district: South East
+      state: England
+      country: United Kingdom
+      country_code: gb
+  cache_hit: 
+Staines,United Kingdom: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 236406175
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 9274280
+    boundingbox:
+    - '51.4106204'
+    - '51.4409531'
+    - "-0.5300018"
+    - "-0.4734314"
+    lat: '51.434012'
+    lon: "-0.511044"
+    display_name: Staines-upon-Thames, Spelthorne, Surrey, South East, England, United
+      Kingdom
+    class: place
+    type: town
+    importance: 0.6948713860330006
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png
+    address:
+      town: Staines-upon-Thames
+      city: Spelthorne
+      county: Surrey
+      state_district: South East
+      state: England
+      country: United Kingdom
+      country_code: gb
+  cache_hit: 
+Denver,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234888713
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 253750
+    boundingbox:
+    - '39.6143154'
+    - '39.9142087'
+    - "-105.1098845"
+    - "-104.5996889"
+    lat: '39.7392364'
+    lon: "-104.9848623"
+    display_name: Denver, Denver County, Colorado, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.9054758739095791
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Denver
+      county: Denver County
+      state: Colorado
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Scottsdale,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235204333
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 110826
+    boundingbox:
+    - '33.4480348'
+    - '33.9003989'
+    - "-111.9608697"
+    - "-111.7560682"
+    lat: '33.4942189'
+    lon: "-111.9260184"
+    display_name: Scottsdale, Maricopa County, Arizona, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.8546606528774976
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Scottsdale
+      county: Maricopa County
+      state: Arizona
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Bentonville,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234814917
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 111561
+    boundingbox:
+    - '36.2710581'
+    - '36.4376362'
+    - "-94.3261781"
+    - "-94.1545874"
+    lat: '36.3728538'
+    lon: "-94.2088172"
+    display_name: Bentonville, Benton County, Arkansas, 72712, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.7927791541287666
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Bentonville
+      county: Benton County
+      state: Arkansas
+      postcode: '72712'
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Irvine,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234814816
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 114485
+    boundingbox:
+    - '33.5993914'
+    - '33.7736521'
+    - "-117.8687519"
+    - "-117.6780259"
+    lat: '33.6856969'
+    lon: "-117.8259819"
+    display_name: Irvine, Orange, California, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.8723688092162833
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Irvine
+      county: Orange
+      state: California
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Palo Alto,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235729514
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1544955
+    boundingbox:
+    - '37.2861556'
+    - '37.4785846'
+    - "-122.2025817"
+    - "-122.0710774"
+    lat: '37.4443293'
+    lon: "-122.1598465"
+    display_name: Palo Alto, Santa Clara County, California, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.9655425599484272
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Palo Alto
+      county: Santa Clara County
+      state: California
+      country: United States of America
+      country_code: us
+  cache_hit: 
+San Francisco,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234623529
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 111968
+    boundingbox:
+    - '37.6403143'
+    - '37.929811'
+    - "-123.173825"
+    - "-122.281479"
+    lat: '37.7790262'
+    lon: "-122.4199061"
+    display_name: San Francisco, California, United States of America
+    class: boundary
+    type: administrative
+    importance: 1.125130946371304
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: San Francisco
+      county: San Francisco
+      state: California
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Santa Monica,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235703469
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 3353288
+    boundingbox:
+    - '33.9666583'
+    - '34.0505825'
+    - "-118.5534678"
+    - "-118.4435336"
+    lat: '34.0250724'
+    lon: "-118.4965129"
+    display_name: Santa Monica, Los Angeles County, California, United States of America
+    class: boundary
+    type: administrative
+    importance: 1.0036591143799556
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Santa Monica
+      county: Los Angeles County
+      state: California
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Englewood,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 236351944
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 7243979
+    boundingbox:
+    - '39.616687'
+    - '39.6786652'
+    - "-105.034955"
+    - "-104.9593814"
+    lat: '39.6482059'
+    lon: "-104.9879641"
+    display_name: Englewood, Arapahoe County, Colorado, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.7937726603574291
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Englewood
+      county: Arapahoe County
+      state: Colorado
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Louisville,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235678706
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1804307
+    boundingbox:
+    - '37.9971'
+    - '38.3801391'
+    - "-85.9470644"
+    - "-85.4051"
+    lat: '38.2542376'
+    lon: "-85.759407"
+    display_name: Louisville, Jefferson County, Kentucky, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.9296532156538947
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Louisville
+      county: Jefferson County
+      state: Kentucky
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Washington,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 491921
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 158368533
+    boundingbox:
+    - '38.7348932'
+    - '39.0548932'
+    - "-77.1965529"
+    - "-76.8765529"
+    lat: '38.8948932'
+    lon: "-77.0365529"
+    display_name: Washington D.C., Washington, Washington, D.C., 20500, United States
+      of America
+    class: place
+    type: city
+    importance: 1.059288898611582
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Washington D.C.
+      county: Washington
+      state: Washington, D.C.
+      postcode: '20500'
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Deerfield Beach,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 279580933
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 154029808
+    boundingbox:
+    - '26.158342'
+    - '26.478342'
+    - "-80.2596306"
+    - "-79.9396306"
+    lat: '26.318342'
+    lon: "-80.0996306"
+    display_name: Deerfield Beach, Broward County, Florida, 33441, United States of
+      America
+    class: place
+    type: city
+    importance: 0.8617280857862958
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Deerfield Beach
+      county: Broward County
+      state: Florida
+      postcode: '33441'
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Tampa,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235665816
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1216849
+    boundingbox:
+    - '27.8212598'
+    - '28.1713602'
+    - "-82.5864954"
+    - "-82.2538678"
+    lat: '27.9477595'
+    lon: "-82.458444"
+    display_name: Tampa, Hillsborough County, Florida, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.929647913486017
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Tampa
+      county: Hillsborough County
+      state: Florida
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Alpharetta,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234916727
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 119572
+    boundingbox:
+    - '34.028209'
+    - '34.1173451'
+    - "-84.359435"
+    - "-84.201218"
+    lat: '34.0709576'
+    lon: "-84.2747329"
+    display_name: Alpharetta, Fulton County, Georgia, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.7572664890906984
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Alpharetta
+      county: Fulton County
+      state: Georgia
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Atlanta,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235512574
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 119557
+    boundingbox:
+    - '33.647808'
+    - '33.886823'
+    - "-84.551068"
+    - "-84.28956"
+    lat: '33.7490987'
+    lon: "-84.3901849"
+    display_name: Atlanta, Fulton County, Georgia, United States of America
+    class: boundary
+    type: administrative
+    importance: 1.0008028207926616
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Atlanta
+      county: Fulton County
+      state: Georgia
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Chicago,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235244846
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 122604
+    boundingbox:
+    - '41.644531'
+    - '42.0230396'
+    - "-87.940101"
+    - "-87.5240812"
+    lat: '41.8755616'
+    lon: "-87.6244212"
+    display_name: Chicago, Cook County, Illinois, United States of America
+    class: boundary
+    type: administrative
+    importance: 1.061529572710025
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Chicago
+      county: Cook County
+      state: Illinois
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Naperville,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 233179518
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 124885
+    boundingbox:
+    - '41.6698948'
+    - '41.821991'
+    - "-88.235296"
+    - "-88.0885135"
+    lat: '41.7728699'
+    lon: "-88.1479278"
+    display_name: Naperville, DuPage County, Illinois, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.8433449240542802
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Naperville
+      county: DuPage County
+      state: Illinois
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Indianapolis,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 406672
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 153353016
+    boundingbox:
+    - '39.6083331'
+    - '39.9283331'
+    - "-86.3183502"
+    - "-85.9983502"
+    lat: '39.7683331'
+    lon: "-86.1583502"
+    display_name: Indianapolis, Marion County, Indiana, 46204, United States of America
+    class: place
+    type: city
+    importance: 0.9500269307043622
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Indianapolis
+      county: Marion County
+      state: Indiana
+      postcode: '46204'
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Boston,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235668418
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2315704
+    boundingbox:
+    - '42.2279112'
+    - '42.3969775'
+    - "-71.1912491"
+    - "-70.8044881"
+    lat: '42.3602534'
+    lon: "-71.0582912"
+    display_name: Boston, Suffolk County, Massachusetts, United States of America
+    class: boundary
+    type: administrative
+    importance: 1.0202507899404512
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Boston
+      county: Suffolk County
+      state: Massachusetts
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Burlington,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 233406549
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 199071
+    boundingbox:
+    - '44.4459066'
+    - '44.5398847'
+    - "-73.276914"
+    - "-73.176125"
+    lat: '44.4762975'
+    lon: "-73.2135472"
+    display_name: Burlington, Chittenden County, Vermont, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.8427397264218912
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Burlington
+      county: Chittenden County
+      state: Vermont
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Cambridge,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235507720
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1933745
+    boundingbox:
+    - '42.3524025'
+    - '42.4037604'
+    - "-71.1604001"
+    - "-71.0639844"
+    lat: '42.3750997'
+    lon: "-71.1056157"
+    display_name: Cambridge, Middlesex County, Massachusetts, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.9242772394422657
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Cambridge
+      county: Middlesex County
+      state: Massachusetts
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Somerville,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235469436
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1933746
+    boundingbox:
+    - '42.3725274'
+    - '42.4181407'
+    - "-71.1345919"
+    - "-71.0726884"
+    lat: '42.3875968'
+    lon: "-71.0994968"
+    display_name: Somerville, Middlesex County, Massachusetts, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.8154203613843687
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Somerville
+      county: Middlesex County
+      state: Massachusetts
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Detroit,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234855498
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 134591
+    boundingbox:
+    - '42.255192'
+    - '42.4502432'
+    - "-83.287959"
+    - "-82.9104391"
+    lat: '42.3315509'
+    lon: "-83.0466403"
+    display_name: Detroit, Wayne County, Michigan, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.9868259938952165
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Detroit
+      county: Wayne County
+      state: Michigan
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Mendota Heights,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235460860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 136896
+    boundingbox:
+    - '44.8616981'
+    - '44.9197469'
+    - "-93.200744"
+    - "-93.1057941"
+    lat: '44.8835768'
+    lon: "-93.1382749"
+    display_name: Mendota Heights, Dakota County, Minnesota, 55120, United States
+      of America
+    class: boundary
+    type: administrative
+    importance: 0.8620024653129037
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Mendota Heights
+      county: Dakota County
+      state: Minnesota
+      postcode: '55120'
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Minneapolis,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235246340
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 136712
+    boundingbox:
+    - '44.89015'
+    - '45.05125'
+    - "-93.329163"
+    - "-93.1938584"
+    lat: '44.9772995'
+    lon: "-93.2654692"
+    display_name: Minneapolis, Hennepin County, Minnesota, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.9471693135985456
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Minneapolis
+      county: Hennepin County
+      state: Minnesota
+      country: United States of America
+      country_code: us
+  cache_hit: 
+New York,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234930245
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 175905
+    boundingbox:
+    - '40.477399'
+    - '40.9161785'
+    - "-74.25909"
+    - "-73.7001809"
+    lat: '40.7127281'
+    lon: "-74.0060152"
+    display_name: New York, United States of America
+    class: boundary
+    type: administrative
+    importance: 1.2175766114518463
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      state_district: New York
+      state: New York
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Charlotte,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234899850
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 177415
+    boundingbox:
+    - '35.013174'
+    - '35.393133'
+    - "-81.009554"
+    - "-80.670104"
+    lat: '35.2270869'
+    lon: "-80.8431268"
+    display_name: Charlotte, Mecklenburg County, North Carolina, United States of
+      America
+    class: boundary
+    type: administrative
+    importance: 0.9201565157178293
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Charlotte
+      county: Mecklenburg County
+      state: North Carolina
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Raleigh,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 501336
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 158618991
+    boundingbox:
+    - '35.6203977'
+    - '35.9403977'
+    - "-78.7990989"
+    - "-78.4790989"
+    lat: '35.7803977'
+    lon: "-78.6390989"
+    display_name: Raleigh, Wake County, North Carolina, 27603-1300, United States
+      of America
+    class: place
+    type: city
+    importance: 0.9086350442672058
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Raleigh
+      county: Wake County
+      state: North Carolina
+      postcode: 27603-1300
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Hillsboro,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234915449
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 186641
+    boundingbox:
+    - '45.4763623'
+    - '45.5757969'
+    - "-123.0118142"
+    - "-122.8595375"
+    lat: '45.5228939'
+    lon: "-122.989827"
+    display_name: Hillsboro, Washington County, Oregon, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.8014471611122607
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Hillsboro
+      county: Washington County
+      state: Oregon
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Fort Washington,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234678012
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 133612
+    boundingbox:
+    - '38.695384'
+    - '38.8032059'
+    - "-77.037148"
+    - "-76.9697184"
+    lat: '38.7125305'
+    lon: "-77.0124598"
+    display_name: Fort Washington, Prince George's County, Maryland, United States
+      of America
+    class: boundary
+    type: administrative
+    importance: 0.8175820688113793
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Fort Washington
+      county: Prince George's County
+      state: Maryland
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Pittsburgh,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 207250
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 34184938
+    boundingbox:
+    - '40.2816941'
+    - '40.6016941'
+    - "-80.1500861"
+    - "-79.8300861"
+    lat: '40.4416941'
+    lon: "-79.9900861"
+    display_name: Pittsburgh, Allegheny County, Pennsylvania, 15262, United States
+      of America
+    class: place
+    type: city
+    importance: 0.9374541175694462
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Pittsburgh
+      county: Allegheny County
+      state: Pennsylvania
+      postcode: '15262'
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Knoxville,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234979472
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 197353
+    boundingbox:
+    - '35.849497'
+    - '36.067428'
+    - "-84.161625"
+    - "-83.688543"
+    lat: '35.9603948'
+    lon: "-83.9210261"
+    display_name: Knoxville, Knox County, Tennessee, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.8857741979978174
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Knoxville
+      county: Knox County
+      state: Tennessee
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Austin,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234881659
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 113314
+    boundingbox:
+    - '30.0984576'
+    - '30.5166255'
+    - "-97.9367663"
+    - "-97.5605288"
+    lat: '30.2711286'
+    lon: "-97.7436995"
+    display_name: Austin, Travis County, Texas, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.9594265717866669
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Austin
+      county: Travis County
+      state: Texas
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Dallas,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 236274805
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 6571629
+    boundingbox:
+    - '32.613216'
+    - '33.0239366'
+    - "-97.000482"
+    - "-96.4636317"
+    lat: '32.7762719'
+    lon: "-96.7968559"
+    display_name: Dallas, Dallas County, Texas, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.9741451879795001
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Dallas
+      county: Dallas County
+      state: Texas
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Houston,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 143020
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 27526178
+    boundingbox:
+    - '29.5989382'
+    - '29.9189382'
+    - "-95.5276974"
+    - "-95.2076974"
+    lat: '29.7589382'
+    lon: "-95.3676974"
+    display_name: Houston, Harris County, Texas, 77002-5902, United States of America
+    class: place
+    type: city
+    importance: 0.9881884465091046
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png
+    address:
+      city: Houston
+      county: Harris County
+      state: Texas
+      postcode: 77002-5902
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Salt Lake City,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235061772
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 198770
+    boundingbox:
+    - '40.6999263'
+    - '40.8533905'
+    - "-112.1013916"
+    - "-111.7404843"
+    lat: '40.7596198'
+    lon: "-111.8867975"
+    display_name: Salt Lake City, Utah, United States of America
+    class: boundary
+    type: administrative
+    importance: 1.1372430902383839
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Salt Lake City
+      state: Utah
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Herndon,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234721773
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 129696
+    boundingbox:
+    - '39.904532'
+    - '39.912873'
+    - "-100.790802"
+    - "-100.781577"
+    lat: '39.909726'
+    lon: "-100.785153"
+    display_name: Herndon, Rawlins County, Kansas, 67739, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.7239598515047856
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Herndon
+      county: Rawlins County
+      state: Kansas
+      postcode: '67739'
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Reston,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 126722183
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 174379066
+    boundingbox:
+    - '38.9106377'
+    - '38.9972795'
+    - "-77.3930629"
+    - "-77.3099865"
+    lat: '38.9584018'
+    lon: "-77.3579743"
+    display_name: Reston, Fairfax County, Virginia, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.7513879474399189
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Reston
+      county: Fairfax County
+      state: Virginia
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Bellevue,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235094466
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 237868
+    boundingbox:
+    - '47.535013'
+    - '47.660788'
+    - "-122.2228062"
+    - "-122.0872197"
+    lat: '47.6144219'
+    lon: "-122.1923372"
+    display_name: Bellevue, King County, Washington, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.8292442486724159
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Bellevue
+      county: King County
+      state: Washington
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Kirkland,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234869713
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 237356
+    boundingbox:
+    - '47.642425'
+    - '47.740778'
+    - "-122.261879"
+    - "-122.149346"
+    lat: '47.6859573'
+    lon: "-122.1920249"
+    display_name: Kirkland, King County, Washington, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.7992654466061094
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Kirkland
+      county: King County
+      state: Washington
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Seattle,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235470814
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 237385
+    boundingbox:
+    - '47.4810022'
+    - '47.7341357'
+    - "-122.459696"
+    - "-122.224433"
+    lat: '47.6038321'
+    lon: "-122.3300624"
+    display_name: Seattle, King County, Washington, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.9829791735643788
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Seattle
+      county: King County
+      state: Washington
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Spokane Valley,United States: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 235497089
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 237598
+    boundingbox:
+    - '47.599805'
+    - '47.709973'
+    - "-117.3469902"
+    - "-117.1427672"
+    lat: '47.6571104'
+    lon: "-117.2613936"
+    display_name: Spokane Valley, Spokane County, Washington, United States of America
+    class: boundary
+    type: administrative
+    importance: 0.8571262501625406
+    icon: https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Spokane Valley
+      county: Spokane County
+      state: Washington
+      country: United States of America
+      country_code: us
+  cache_hit: 
+Unknown,Unknown: !ruby/object:Geocoder::Result::Nominatim
+  data:
+    place_id: 234518715
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 747253679
+    boundingbox:
+    - "-14.3157189"
+    - "-14.3154301"
+    - "-71.6777722"
+    - "-71.6774435"
+    lat: "-14.315566650000001"
+    lon: "-71.6776002057072"
+    display_name: Unknown, Huari, Livitaca, Province of Chumbivilcas, Cusco, Peru
+    class: natural
+    type: wood
+    importance: 0.22100000000000003
+    icon: https://nominatim.openstreetmap.org/images/mapicons/landuse_coniferous_and_deciduous.p.20.png
+    address:
+      wood: Unknown
+      road: Unknown
+      hamlet: Huari
+      town: Livitaca
+      region: Province of Chumbivilcas
+      state: Cusco
+      country: Peru
+      country_code: pe
   cache_hit: 

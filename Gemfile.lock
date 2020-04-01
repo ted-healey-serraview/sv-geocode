@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     awesome_print (1.8.0)
     coderay (1.1.2)
